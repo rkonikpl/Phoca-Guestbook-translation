@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="package" version="2.5">
+	<name>Polish Language Pack for Phoca Guestbook</name>
+	<packagename>pl-PL</packagename>
+	<version>2.0.5</version>
+	<creationDate>2012-06-21</creationDate>
+	<author>rKonik Rafał Kobyliński</author>
+	<authorEmail></authorEmail>
+	<authorUrl>http://rkonik.com</authorUrl>
+	<copyright></copyright>
+	<license></license>
+	<description>
+		<![CDATA[
+		<h3>Tłumaczenie do Księgi Gości <a href="http://www.phoca.cz/phocaguestbook" style="color:#bac83f;text-decoration:none">Phoca Guestbook</a></h3>
+		<p>Pakiet został stworzony na podstawie tłumaczenia znalezionego na stronie Phoca.cz<br><br>
+		Tłumaczenie zostało zaktualizowane do najnowszej wersji <a href="http://www.phoca.cz/phocaguestbook" style="color:#bac83f;text-decoration:none">Phoca Guestbook</a> 2.0.5</p>
+		<p>Jeżeli znalazłeś jakiś błąd i chcesz aby została wprowadzona poprawka daj znać postaram się jak najszybciej ją wnieść </p>
+		<p>Dziękuję za skorzystanie z pakietu tłumaczeń <a href="http://rkonik.com" style="color:#ff0000;text-decoration:none">rKonik.com</a>
+		]]>
+	</description>
+	<files>
+		<file type="language" client="site" id="pl-PL">site_pl-PL.zip</file>
+		<file type="language" client="administrator" id="pl-PL">admin_pl-PL.zip</file>
+	</files>
+</extension>
