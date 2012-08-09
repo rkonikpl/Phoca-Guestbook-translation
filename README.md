@@ -1,2 +1,2 @@
 # This is my README
-# kurwa
+# Test zadziałał poprawnie
