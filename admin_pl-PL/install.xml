@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>Phoca Guestbook (Polski)</name>
+	<tag>pl-PL</tag>
+	<version>2.0.5</version>
+	<creationDate>2012-06-21</creationDate>
+	<author>rKonik Rafał Kobyliński</author>
+	<authorEmail></authorEmail>
+	<authorUrl>http://rkonik.com</authorUrl>
+	<copyright></copyright>
+	<license></license>
+	<description>pl-PL: Polski pakiet językowy dla Phoca Guestbook 2.0.5</description>
+	<files>
+		<filename>index.html</filename>
+		<filename file="meta">install.xml</filename>
+		<filename file="meta">pl-PL.xml</filename>
+		<filename>pl-PL.com_phocaguestbook.ini</filename>
+		<filename>pl-PL.com_phocaguestbook.sys.ini</filename>
+	</files>
+</extension>
